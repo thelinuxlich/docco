@@ -129,6 +129,12 @@ languages =
     name: 'coffee-script', symbol: '#'
   '.js':
     name: 'javascript', symbol: '//'
+  '.java':
+    name: 'java', symbol: '//'
+  '.php':
+    name: 'php', symbol: '#'
+  '.js':
+    name: 'javascript', symbol: '//'
   '.rb':
     name: 'ruby', symbol: '#'
   '.py':
